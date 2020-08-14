@@ -8,7 +8,15 @@ Use the templated *story editor* for the majority of the text. It permits per-pa
 
 ### Text
 
-How do text frames do pagination? How do text frames interact with images?
+Use linked text frames on the main layer. By default they all span the entire page.
+
+Titles, headers of various levels, standard paragraphs are all done this way, with the story editor.
+
+Inline code and inline math will have to be manually done, by overwriting the styling and using unicode math.
+
+### Insets of various colors (intro, learn more, warnings)
+
+A text frame with custom shape/fill/stroke on a separate layer.
 
 ### Math
 
@@ -16,11 +24,19 @@ The booklet contains very little math notation. For inline formulas we will use 
 
 ### Code
 
-Inline code is boring monospaced as in the web page. Code panes might require custom *render frames* with extra LaTeX packages.
+Inline code is boring monospaced as in the web page. Code panes might require custom *render frames* with exta LaTeX packages or images
 
 ### Images
 
-We need a style prescription for them. We also need to decide how they float/break the text.
+Two extra layers for images, with properly set floating constraints.
+
+### Flowing text around math/code/images
+
+From properties, select shape and set text flow to countour line. You can edit the countour line from the edit button.
+
+### Interface setup
+
+Having the properties pane and the layers pane added to the default interface helps significantly.
 
 # License
 

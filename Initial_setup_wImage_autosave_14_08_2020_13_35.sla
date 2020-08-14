@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="6" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="0.1528" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="1" DPSo="1" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="2" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="1000.0008" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="d" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="0" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <COLOR NAME="purple" SPACE="CMYK" C="83.921568627451" M="100" Y="0" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
+        <STYLE NAME="Titles" ALIGN="1" LINESP="14" DROP="0" FONT="Poppins Light" FONTSIZE="24" FCOLOR="Blue" KERN="5"/>
+        <STYLE NAME="IntroBox" ALIGN="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" FONT="Poppins Regular"/>
+        <STYLE NAME="Main Text" ALIGN="3" LINESP="15" FIRST="18" FONT="Poppins Regular" LANGUAGE="en_US"/>
+        <STYLE NAME="Warning" ALIGN="1" LINESP="12" FONT="Poppins Regular" FONTSIZE="10" FCOLOR="Black" LANGUAGE="en_US"/>
+        <STYLE NAME="Caption" ALIGN="1" LINESP="12" FONT="Poppins Regular" FONTSIZE="10" LANGUAGE="en_US"/>
+        <STYLE NAME="Headers" VOR="4" NACH="4" FONT="Poppins Bold" FONTSIZE="14" LANGUAGE="en_US"/>
+        <STYLE NAME="Lists" PARENT="Main Text" ALIGN="3" INDENT="0" FIRST="0" NACH="6"/>
+        <STYLE NAME="Copy of Lists (1)" PARENT="Main Text" ALIGN="3" INDENT="0" FIRST="0" NACH="6"/>
+        <STYLE NAME="Copy of Lists (2)" PARENT="Main Text" ALIGN="3" INDENT="0" FIRST="0" NACH="6"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="1" LAYERC="#000000"/>
+        <LAYERS NUMMER="1" LEVEL="1" NAME="text" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
+        <LAYERS NUMMER="2" LEVEL="2" NAME="images" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <LAYERS NUMMER="3" LEVEL="3" NAME="New Layer 3" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="1" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="1" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="0" PSLevel="3" PDLanguage="3" markLength="0" markOffset="1.18182143037641e-125" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="0" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Poppins Regular"/>
+            <Subset Name="Poppins Light"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="0" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="all" From="0" To="5" Type="Type_1_2_3" Start="5" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496.0008" PAGEYPOS="20.0016" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="1632.0024" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496.0008" PAGEYPOS="1632.0024" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="3244.0032" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="4" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496.0008" PAGEYPOS="3244.0032" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="5" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="532.0008" YPOS="56.0016" OwnPage="1" ItemID="664437926" PTYPE="4" WIDTH="324" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 576 L0 576 L0 0 Z" copath="M0 0 L324 0 L324 576 L0 576 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="1. Start by installing the Arduino software on your computer, which you can download for free from https://arduino.cc/en/Main/Software#download . For step by step help, Arduino has provided instructions for each operating system at https://www.arduino.cc/en/Guide."/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="Once the software is installed, we have to configure it to communicate with the SpinWheel."/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="2. Plug your SpinWheel into your computer with a micro USB cable and flip the switch to the position labeled &quot;USB&quot;. "/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="3. Open the Arduino software. "/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="4. Open the "/>
+                <ITEXT FONT="Poppins Bold" CH="Tools"/>
+                <ITEXT CH=" menu and go to "/>
+                <ITEXT FONT="Poppins Bold" CH="Port"/>
+                <ITEXT CH=". You will see a list of serial ports on your computer; select the port that corresponds to the SpinWheel. "/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="If there are multiple ports and you are unsure which one to use, simply unplug the SpinWheel and see which serial port disappears when you do so. This port corresponds to your SpinWheel's serial port. If you do not see a port appear/disappear, you may need to try a different micro USB cable. We have more tips about this in the troubleshooting guide."/>
+                <para PARENT="Lists"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="250.4016" OwnPage="0" ItemID="664414118" PTYPE="6" WIDTH="324" HEIGHT="93.6" RADRECT="18" FRTYPE="2" CLIPEDIT="1" PWIDTH="1" PCOLOR="purple" SHADE="20" PLINEART="1" path="M18 0 L306 0 C315.941 0 324 8.05887 324 18 L324 75.6 C324 85.5411 315.941 93.6 306 93.6 L18 93.6 C8.05887 93.6 0 85.5411 0 75.6 L0 18 C0 8.05887 8.05887 0 18 0 Z" copath="M18 0 L306 0 C315.941 0 324 8.38123 324 18.72 L324 74.88 C324 85.2188 315.941 93.6 306 93.6 L18 93.6 C8.05887 93.6 0 85.2188 0 74.88 L0 18.72 C0 8.38123 8.05887 0 18 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="143.2008" YPOS="255.4416" OwnPage="0" ItemID="665216598" PTYPE="4" WIDTH="309.6" HEIGHT="90" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L309.6 0 L309.6 90 L0 90 L0 0 Z" copath="M0 0 L309.6 0 L309.6 90 L0 90 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="We're so excited that you are ready to use your SpinWheel! This page begins the process of setting you up to create new and exciting programs on your SpinWheel! If you haven’t already done so, please complete steps found in the Quick Start Page that came with your device."/>
+                <trail PARENT="IntroBox"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="214.4016" OwnPage="0" ItemID="664435398" PTYPE="4" WIDTH="324" HEIGHT="28.08" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 28.08 L0 28.08 L0 0 Z" copath="M0 0 L324 0 L324 28.08 L0 28.08 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="24" FCOLOR="purple" FSHADE="100" CH="SpinWheel Initial Setup"/>
+                <trail PARENT="Titles"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="354.8016" OwnPage="0" ItemID="665397350" PTYPE="4" WIDTH="324" HEIGHT="241.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 241.2 L0 241.2 L0 0 Z" copath="M0 0 L324 0 L324 241.2 L0 241.2 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Setting Up the Arduino Software"/>
+                <para PARENT="Headers"/>
+                <ITEXT CH="Much of the joy of the SpinWheel comes from your ability to change it and make it do whatever you wish! The rest of the guide will walk you through adding a new animation to your SpinWheel. Do not worry if you find this part challenging, learning new things can be confusing at first. If you get stuck, check out the troubleshooting guide and don't be afraid to experiment. While feeling confused is normal, it will get easier as you go!"/>
+                <para PARENT="Main Text"/>
+                <ITEXT CH="In order to write new animations for the SpinWheel, you will need a way to reprogram the computer on the SpinWheel. We use the Arduino programming language to communicate with the SpinWheel. "/>
+                <para PARENT="Main Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="532.0008" YPOS="607.5216" OwnPage="1" ItemID="665406950" PTYPE="4" WIDTH="324" HEIGHT="13.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 13.68 L0 13.68 L0 0 Z" copath="M0 0 L324 0 L324 13.68 L0 13.68 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno" FONT="Poppins Regular" FONTSIZE="10"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="2219.5224" OwnPage="2" ItemID="665975782" PTYPE="4" WIDTH="324" HEIGHT="13.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 13.68 L0 13.68 L0 0 Z" copath="M0 0 L324 0 L324 13.68 L0 13.68 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno" FONT="Poppins Regular" FONTSIZE="10"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="532.0008" YPOS="2219.5224" OwnPage="3" ItemID="665400950" PTYPE="4" WIDTH="324" HEIGHT="13.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 13.68 L0 13.68 L0 0 Z" copath="M0 0 L324 0 L324 13.68 L0 13.68 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno" FONT="Poppins Regular" FONTSIZE="10"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="607.5216" OwnPage="0" ItemID="665393030" PTYPE="4" WIDTH="324" HEIGHT="13.68" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 13.68 L0 13.68 L0 0 Z" copath="M0 0 L324 0 L324 13.68 L0 13.68 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno" FONT="Poppins Regular" FONTSIZE="10"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="561.5" YPOS="427.25" OwnPage="1" ItemID="665782230" PTYPE="6" WIDTH="258.75" HEIGHT="135" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Cyan" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="3" path="M0 0 L258.75 0 L258.75 135 L0 135 L0 0 Z" copath="M0 0 L258.75 0 L258.75 135 L0 135 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2"/>
+        <PAGEOBJECT XPOS="532.0008" YPOS="567.2016" OwnPage="1" ItemID="665961094" PTYPE="4" WIDTH="324" HEIGHT="36" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 36 L0 36 L0 0 Z" copath="M0 0 L324 0 L324 36 L0 36 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Use"/>
+                <ITEXT FONT="Poppins Bold" CH=" Tools"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Arial Bold" CH="→"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Poppins Bold" CH="Port"/>
+                <ITEXT CH=" and "/>
+                <ITEXT FONT="Poppins Bold" CH="Tools"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Arial Bold" CH="→"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Poppins Bold" CH="Board"/>
+                <ITEXT CH=" to pick the port corresponding to the SpinWheel and the &quot;Leonardo&quot; board type."/>
+                <trail PARENT="Caption"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="1668.0024" OwnPage="2" ItemID="665938294" PTYPE="4" WIDTH="324" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 576 L0 576 L0 0 Z" copath="M0 0 L324 0 L324 576 L0 576 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="5. Go back to the Tools menu and select"/>
+                <ITEXT FONT="Poppins Bold" CH=" Tools  "/>
+                <ITEXT FONT="Arial Bold" CH="→"/>
+                <ITEXT FONT="Poppins Bold" CH=" Board"/>
+                <ITEXT CH=". Select Arduino Leonardo as the board (a.k.a. processor), so that the software knows which “dialect” to use to talk to the SpinWheel. (Computer languages have dialects just like human languages!)"/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="Properly selecting the board and port are essential for the Arduino software to communicate with the SpinWheel. If you are unable to upload code to the SpinWheel in the next section, double check that the switch is set to &quot;USB&quot; and that you have the correct board and port selected."/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="Installing the SpinWheel librarie"/>
+                <ITEXT FONTSIZE="14" CH="s"/>
+                <para PARENT="Headers"/>
+                <ITEXT CH="1. To get the first set of example programs you can run on the SpinWheel, download our SpinWearables Arduino Library using "/>
+                <ITEXT FONT="Poppins Bold" CH="Sketch "/>
+                <ITEXT FONT="Arial Bold" CH="→"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Poppins Bold" CH="Include Library  "/>
+                <ITEXT FONT="Arial Bold" CH="→"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Poppins Bold" CH="Manage Libraries..."/>
+                <ITEXT CH="   "/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="2. In the search bar of the Library Manager, search for `SpinWearables` and then click `Install`. "/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="3. You will be automatically prompted to install two other required libraries ("/>
+                <ITEXT FONT="Poppins Bold" CH="NeoPixel"/>
+                <ITEXT CH=" for controlling the LEDs and "/>
+                <ITEXT FONT="Poppins Bold" CH="ICM 20948"/>
+                <ITEXT CH=" for reading the motion sensor). You will need to install both of these to use the SpinWheel."/>
+                <trail PARENT="Lists"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="532.0008" YPOS="1668.0024" OwnPage="3" ItemID="666087718" PTYPE="4" WIDTH="324" HEIGHT="172.4976" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 172.498 L0 172.498 L0 0 Z" copath="M0 0 L324 0 L324 172.498 L0 172.498 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Running a program on the SpinWheel"/>
+                <para PARENT="Headers"/>
+                <ITEXT CH="To test that your SpinWheel is working properly, you can install a new program, or sketch, from the example files to animate your SpinWheel. "/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="1. Choose a file to install by opening "/>
+                <ITEXT FONT="Poppins Bold" CH="File"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Arial Bold" CH="→"/>
+                <ITEXT FONT="Poppins Bold" CH=" Examples"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Arial Bold" CH="→"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Poppins Bold" CH="SpinWearables"/>
+                <ITEXT CH=" and picking one of the examples.  For instance, pick "/>
+                <ITEXT FONT="Poppins Bold" CH="BlinkingFirmware"/>
+                <ITEXT CH=". This will open a new window with the code."/>
+                <para PARENT="Lists"/>
+                <ITEXT CH="2. Upload the code to your SpinWheel by pressing the upload button (the arrow at the top). "/>
+                <para PARENT="Lists"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="163.5" YPOS="2059.5" OwnPage="2" ItemID="666710774" PTYPE="6" WIDTH="262.5" HEIGHT="126.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Cyan" PCOLOR2="Black" PLINEART="1" path="M0 0 L262.5 0 L262.5 126.75 L0 126.75 L0 0 Z" copath="M0 0 L262.5 0 L262.5 126.75 L0 126.75 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="151.5" YPOS="2191.5" OwnPage="2" ItemID="666983094" PTYPE="4" WIDTH="283.5" HEIGHT="18.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.5 0 L283.5 18.75 L0 18.75 L0 0 Z" copath="M0 0 L283.5 0 L283.5 18.75 L0 18.75 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Installing Arduino libraries"/>
+                <trail PARENT="Caption"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="561.5" YPOS="1842.5" OwnPage="3" ItemID="666566742" PTYPE="6" WIDTH="262.5" HEIGHT="60.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Cyan" PCOLOR2="Black" PLINEART="1" path="M0 0 L262.5 0 L262.5 60.5 L0 60.5 L0 0 Z" copath="M0 0 L262.5 0 L262.5 60.5 L0 60.5 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="532.0008" YPOS="1909.5" OwnPage="3" ItemID="667080966" PTYPE="4" WIDTH="324" HEIGHT="26.5024000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 26.5024 L0 26.5024 L0 0 Z" copath="M0 0 L324 0 L324 26.5024 L0 26.5024 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Upload programs to your SpinWheel using the "/>
+                <ITEXT FONT="Poppins Bold" CH="Upload"/>
+                <ITEXT CH=" button (highlighted in white)."/>
+                <trail PARENT="Caption"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="532.0008" YPOS="1950" OwnPage="3" ItemID="667073414" PTYPE="4" WIDTH="324" HEIGHT="254.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 254.25 L0 254.25 L0 0 Z" copath="M0 0 L324 0 L324 254.25 L0 254.25 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Now your SpinWheel will have the new colorful blinking pattern (from `BlinkingFirmware`) you just uploaded. If you get an error here, then check out the troubleshooting guide for help on some common problems. "/>
+                <para PARENT="Main Text"/>
+                <ITEXT CH="Feel free to open any of the other SpinWheel sketches and upload them onto the device. Do not worry about understanding what the code does, you will learn more about this language in future lessons. We encourage you to experiment with these examples! If you want to save any changes, you will be prompted to save the sketch in a new location (can be anywhere on your computer). The original file will always be available to open again."/>
+                <para PARENT="Main Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="3280.0032" OwnPage="4" ItemID="667105574" PTYPE="4" WIDTH="324" HEIGHT="413.5032" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 413.503 L0 413.503 L0 0 Z" copath="M0 0 L324 0 L324 413.503 L0 413.503 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Uploading a new sketch to your SpinWheel will overwrite the preloaded sketch that came on it. If you want your SpinWheel to have the sketch that it came with, simply open the "/>
+                <ITEXT FONT="Poppins Bold" CH="SpinWheelStockFirmware"/>
+                <ITEXT CH=" example and upload it."/>
+                <para PARENT="Main Text"/>
+                <ITEXT CH="In future SpinWheel activities, you will be writing new sketches to animate the SpinWheel. To transfer a sketch from your computer to your SpinWheel, simply connect your SpinWheel to your computer, change the switch to &quot;USB&quot;, open the code of your new sketch in the Arduino software and press the upload button. "/>
+                <para PARENT="Main Text"/>
+                <ITEXT CH="Congratulations! You are now ready to continue with the rest of the SpinWheel activities! "/>
+                <para PARENT="Main Text"/>
+                <ITEXT CH="This SpinWheel Field Guide contains some hands-on adventures and reference material. This material is found in expanded versions online, along with many more activities for you to enjoy. We highly recommend that you make use of both. In addition, the online version contains virtual SpinWheels that allow you to test and experiment with your code and see what the result might look like before uploading to your real SpinWheel! Check them out in the next activity, “Basic Structure of a Program”"/>
+                <para PARENT="Main Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="617.25" YPOS="218.0016" OwnPage="1" ItemID="692711462" PTYPE="2" WIDTH="198" HEIGHT="111.2484" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="3" LOCALSCX="0.0267552669552669" LOCALSCY="0.0267552669552669" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../diploma.jpg" PRFILE="Embedded GIMP built-in sRGB" EPROF="Embedded GIMP built-in sRGB" IRENDER="0" path="M0 0 L198 0 L198 111.248 L0 111.248 L0 0 Z" copath="M-10.725 -7.70176 L207.9 -5.5 L207.9 116.873 L-9.9 116.873 L-10.725 -7.70176 Z" gXpos="607.35" gYpos="212.43918" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
