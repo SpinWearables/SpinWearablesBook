@@ -2,17 +2,26 @@
 
 Made with Scribus version 1.5.5.
 
+## Making new pages
+
+Use Page -> Insert Page to add new pages. Under "Master Pages", select "left_text" and "right_text"
+New pages will not have text frames. Add a text frame and set it to be 7.5" high and 4.5" wide. The top left should be at (0.5", 0.5").
+Link the text frame to the prior or next page as needed.
+
+
 ## Style guide and Scribus tips
 
 Use the templated *story editor* for the majority of the text. It permits per-paragraph styling. Be careful with the use of the new-line/enter button (alt+enter can be used in the story editor to force new lines that do not force a new styled paragraph).
 
 ### Text
 
-Use linked text frames on the main layer. By default they all span the entire page.
+Use linked text frames on the main layer. 
 
 Titles, headers of various levels, standard paragraphs are all done this way, with the story editor.
 
-Inline code and inline math will have to be manually done, by overwriting the styling and using unicode math.
+Inline code and other formating (such as refering to other pages) should be formatted using "Character Styles." To do this, open the properties window for the text frame, highlight the text, select "Text" -> "Style Settings" in the "Properties" window and select the desired Character Style
+
+Inline math will have to be manually done, by overwriting the styling and using unicode math.
 
 ### Insets of various colors (intro, learn more, warnings)
 
