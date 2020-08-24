@@ -72,7 +72,8 @@ void setup() {
   // on our device is ready to send messages.
   // The name "Serial" is such for historical reasons
   // (it is the name for this type of communication).
-  Serial.begin(9600); // The 9600 is the speed of the connection.
+  // The 9600 is the speed of the connection.
+  Serial.begin(9600); 
 }
 
 void loop() {
@@ -168,8 +169,9 @@ void delay_seconds(int number_of_seconds) {
 ```
 
 ```c++
-// I am writing this comment to remind me that the next
-// line stores the number 5 in the variable named my_test_variable.
+// I am writing this comment to remind me 
+// that the next line stores the number 5 
+// in the variable named my_test_variable.
 int my_test_variable = 5;
 ```
 
