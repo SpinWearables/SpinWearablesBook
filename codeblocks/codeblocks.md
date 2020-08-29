@@ -111,28 +111,6 @@ void loop() {
 ```
 
 ```c++
-#include "SpinWearables.h"
-using namespace SpinWearables;
-
-void setup() {
-  SpinWheel.begin();
-}
-
-// variable to specify which LED to light up
-int which_LED = 0; 
-
-void loop() {
-  SpinWheel.setLargeLED(which_LED, 255, 0, 0); 
-  SpinWheel.drawFrame(); 
-  // add in a delay to make the LEDs change at a reasonable speed
-  delay(500);
-  // Increase the value of which_LED by 1.
-  which_LED = which_LED + 1; 
-}
-```
-
-
-```c++
 int my_special_integer = 6;
 
 ```
@@ -197,4 +175,24 @@ void delay_seconds(int number_of_seconds) {
 int my_test_variable = 5;
 ```
 
+```c++
+#include "SpinWearables.h"
+using namespace SpinWearables;
+
+void setup() {
+  SpinWheel.begin();
+}
+
+// variable to specify which LED to light up
+int which_LED = 0; 
+
+void loop() {
+  SpinWheel.setLargeLED(which_LED, 255, 0, 0); 
+  SpinWheel.drawFrame(); 
+  // add in a delay to make the LEDs change at a reasonable speed
+  delay(500);
+  // Increase the value of which_LED by 1.
+  which_LED = which_LED + 1; 
+}
+```
 
