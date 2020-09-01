@@ -17,7 +17,7 @@ void loop() {
 ```
 
 ```c++
-SpinWheel.setLargeLED(0, 255, 0, 0);
+SpinWheel.setLargeLEDsUniform(255, 0, 255);
 SpinWheel.drawFrame();
 ```
 
@@ -50,7 +50,7 @@ void loop() {
 ```
 
 ```c++
-SpinWheel.setLargeLEDsUniform(255, 0, 255);
+SpinWheel.setLargeLED(0, 255, 0, 0);
 SpinWheel.drawFrame();
 ```
 
