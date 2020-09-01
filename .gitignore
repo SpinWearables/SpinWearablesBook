@@ -1,3 +1,4 @@
 *.autosave
 *autosave*
 .DS_Store
+*.pdf
