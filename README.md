@@ -1,6 +1,6 @@
 # The SpinWheel Fieldguide Booklet
 
-Made with Scribus version 1.5.5.
+Made with Scribus version 1.4.8.
 
 ## Making new pages
 
