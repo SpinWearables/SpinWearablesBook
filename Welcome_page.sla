@@ -84,7 +84,9 @@
             <para PARENT="Main tex"/>
             <ITEXT FONT="Poppins Regular" CH="The SpinWheel has four main components: a power source (the battery), a sensor (for motion and magnetic fields), a set of lights (the light emitting diodes, or LEDs), and a micro-computer (the brain of the device)."/>
             <para PARENT="Main tex"/>
-            <ITEXT CH="The SpinWheel contains sensitive electronic components. While they are securely soldered to the device, they can break if jostled excessively. It is important to be gentle with your SpinWheel when attaching the micro USB cable, and when putting it into a backpack, purse, or pocket. It is very important to treat the battery with care; do not puncture or bend it. As swallowing it could be deadly, keep it out of reach of children or pets. Storing the SpinWheel in a smaller pocket within your bag or in the box you received it in will help keep it safe. "/>
+            <ITEXT CH="The SpinWheel contains sensitive electronic components. While they are securely soldered to the device, they can break if jostled excessively. It is important to be gentle with your SpinWheel when attaching the micro USB cable, and when putting it into a backpack or pocket. It is very important to treat the battery with care; do not puncture or bend it. "/>
+            <ITEXT FONT="Poppins SemiBold" CH="As swallowing it could be deadly, keep the battery out of reach of children or pets."/>
+            <ITEXT CH=" Storing the SpinWheel in a smaller pocket within your bag or in the box you received it in will help keep it safe. "/>
             <para PARENT="Main tex"/>
             <ITEXT CH="Quick start"/>
             <para PARENT="Header"/>
@@ -100,7 +102,7 @@
             <para PARENT="Lists"/>
             <ITEXT FONT="Poppins Regular" CH="5. To turn off the SpinWheel, flip the switch to &quot;USB&quot;."/>
             <para PARENT="Lists"/>
-            <ITEXT FONT="Poppins Regular" CH="6. To charge, plug a micro USB cable into the USB jack on the back of the SpinWheel, set the switch to &quot;USB&quot; and charge using a computer or USB-to-wall converter. Note: the battery may require charging before use. Reaching full charge takes approximately 1 hr."/>
+            <ITEXT FONT="Poppins Regular" CH="6. To charge, plug the micro USB cable into the USB jack on the back of the SpinWheel, set the switch to &quot;USB&quot; and charge using a computer or USB-to-wall converter. Note: the battery may require charging before use. Reaching full charge takes approximately 1 hr."/>
             <para PARENT="Lists"/>
             <ITEXT CH="The switch on the SpinWheel should be set to &quot;USB&quot; whenever it is plugged into your computer, whether to charge or to program. You should also keep the switch in this position when you are not using the SpinWheel and for long term storage to protect the battery from discharging. "/>
             <para PARENT="Main tex"/>
