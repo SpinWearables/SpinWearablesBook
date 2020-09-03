@@ -80,11 +80,11 @@
             <para PARENT="title"/>
             <ITEXT CH="Contents"/>
             <para PARENT="Header"/>
-            <ITEXT FONT="Poppins Regular" CH="Your kit contains a SpinWheel, a battery, a micro USB cable and, if you ordered one, a paper copy of the SpinWheel Field Guide. "/>
+            <ITEXT FONT="Poppins Regular" CH="Your kit contains a SpinWheel, a battery, a micro USB cable and, if you ordered one, the SpinWheel Field Guide. "/>
             <para PARENT="Main tex"/>
-            <ITEXT FONT="Poppins Regular" CH="The SpinWheel has four main components: a power source (the battery), a sensor (for motion and magnetic fields), a set of lights (the light emitting diodes, or LEDs), and a micro computer (the brain of the device)."/>
+            <ITEXT FONT="Poppins Regular" CH="The SpinWheel has four main components: a power source (the battery), a sensor (for motion and magnetic fields), a set of lights (the light emitting diodes, or LEDs), and a micro-computer (the brain of the device)."/>
             <para PARENT="Main tex"/>
-            <ITEXT CH="The SpinWheel contains sensitive electronic components. While they are securely soldered to the device, they can break if jostled excessively. It is important to be gentle with your SpinWheel when attaching the micro USB cable, and when putting it into a backpack, purse, or pocket. It is also particularly important to treat the battery with care; do not puncture or bend it. Storing the SpinWheel in a smaller pocket within your bag or in the box you received it in will help keep it safe. "/>
+            <ITEXT CH="The SpinWheel contains sensitive electronic components. While they are securely soldered to the device, they can break if jostled excessively. It is important to be gentle with your SpinWheel when attaching the micro USB cable, and when putting it into a backpack, purse, or pocket. It is very important to treat the battery with care; do not puncture or bend it. As swallowing it could be deadly, keep it out of reach of children or pets. Storing the SpinWheel in a smaller pocket within your bag or in the box you received it in will help keep it safe. "/>
             <para PARENT="Main tex"/>
             <ITEXT CH="Quick start"/>
             <para PARENT="Header"/>
@@ -110,7 +110,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="136" YPOS="93.0000000000001" WIDTH="324" HEIGHT="78.0599999999999" RADRECT="14.4" FRTYPE="2" CLIPEDIT="0" PWIDTH="2.88" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="14.4 0 14.4 0 309.6 0 309.6 0 309.6 0 317.553 0 324 14.4 324 6.4471 324 14.4 324 14.4 324 63.66 324 63.66 324 63.66 324 71.6129 309.6 78.06 317.553 78.06 309.6 78.06 309.6 78.06 14.4 78.06 14.4 78.06 14.4 78.06 6.4471 78.06 0 63.66 0 71.6129 0 63.66 0 63.66 0 14.4 0 14.4 0 14.4 0 6.4471 14.4 0 6.4471 0 " NUMCO="32" COCOOR="14.4 0 14.4 0 309.6 0 309.6 0 309.6 0 317.553 0 324 14.4 324 6.4471 324 14.4 324 14.4 324 63.66 324 63.66 324 63.66 324 71.6129 309.6 78.06 317.553 78.06 309.6 78.06 309.6 78.06 14.4 78.06 14.4 78.06 14.4 78.06 6.4471 78.06 0 63.66 0 71.6129 0 63.66 0 63.66 0 14.4 0 14.4 0 14.4 0 6.4471 14.4 0 6.4471 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="12" CH="We're so excited that you are ready to use your SpinWheel! This page provides details on the contents of your kit and instructions for turning it on for the first time!"/>
+            <ITEXT FONTSIZE="12" CH="We're so excited that you are ready to use your SpinWheel! This page provides important details on the contents of your kit and instructions for turning it on for the first time!"/>
             <trail PARENT="intro box"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
