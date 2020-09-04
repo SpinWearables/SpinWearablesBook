@@ -1136,7 +1136,9 @@
             <para PARENT="Lists"/>
             <ITEXT CH="Set color using a single hex variable"/>
             <para PARENT="function_header"/>
-            <ITEXT CH="(255, 129, 0) → 0xff8100"/>
+            <ITEXT CH="(255, 129, 0) "/>
+            <ITEXT FONT="Code2000 Regular" CH="→"/>
+            <ITEXT CH=" 0xff8100"/>
             <para PARENT="Code paragraphs"/>
             <ITEXT CH="All of the color-related functions can be used with a single color variable in the standard hex notation (a common method of referring to colors). "/>
             <para PARENT="Lists"/>
