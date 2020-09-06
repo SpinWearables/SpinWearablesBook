@@ -47,10 +47,6 @@ From properties, select shape and set text flow to countour line. You can edit t
 
 Having the properties pane and the layers pane added to the default interface helps significantly.
 
-## Compensations for bending due to staple binding
-
-Commit `c14ea97efd6d7f3a850d2fa644fe55278aa854d2` contains a version with slight offsets for a header image, required to avoid awkward cutoff when binding. Not necessary if binding that does not suffer from bending offset is used.
-
 # License
 
 The copyright for this website, the online lessons, and printed materials belongs to SpinWearables LLC and so does the copyright for the code and hardware designs. All of these materials are permissively licensed: The website, lessons, and printed materials can be copied, remixed, and modified, as long as the purposes are non-commercial, attribution to the original creators is given, and any other constraints of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License are fulfilled. Furthermore, the text (but not images and graphic artwork) of the teaching materials can be reused even for commercial purposes, under the Creative Commons Attribution-ShareAlike 4.0 International License. The code and hardware designs can be reused under similar conditions, even for commercial purposes, as long as the constraints of the GNU General Public License v3.0 are fulfilled.
